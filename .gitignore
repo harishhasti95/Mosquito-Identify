@@ -1,0 +1,9 @@
+.train/*
+.train_images/*
+.test_images_phase1/*
+train.csv
+test_phase1_v2.csv
+sample_submission_phase1_v2.csv
+train.csv
+test_phase1_v2.csv
+__pycache__/*
